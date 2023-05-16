@@ -9,4 +9,4 @@ It was made using HTML, CSS and Javascript.
 
 ## [View Live](https://serenamk.github.io/RestaurantStaticSite/)
 
-<img src="https://i.ibb.co/jz0XnBH/restaurant-site.gif">
+<img src="https://i.ibb.co/sRK2NW9/restaurant-site-small.gif">
