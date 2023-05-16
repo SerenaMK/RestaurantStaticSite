@@ -1,4 +1,4 @@
-# Restaurant_StaticWebsite
+# Restaurant Static Website
 
 This is an example of a static website for a restaurant.
 
